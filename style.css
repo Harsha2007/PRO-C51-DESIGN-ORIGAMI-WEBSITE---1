@@ -1,0 +1,15 @@
+h1 {
+color:black               
+}
+            
+body{
+    background-color: #008080;
+}       
+            
+.grid {
+  display:flex;
+  justify-content: space-between;
+    flex-wrap: wrap;
+   
+  }
+ 
